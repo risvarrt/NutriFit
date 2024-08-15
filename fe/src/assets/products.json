@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Red Shirt",
+    "type": "shirt",
+    "color": "red",
+    "price": 19.99
+  },
+  {
+    "id": 2,
+    "name": "Blue Shorts",
+    "type": "shorts",
+    "color": "blue",
+    "price": 14.99
+  },
+  {
+    "id": 3,
+    "name": "Green Sweatshirt",
+    "type": "sweatshirt",
+    "color": "green",
+    "price": 24.99
+  },
+  {
+    "id": 4,
+    "name": "Black Water Bottle",
+    "type": "water bottle",
+    "color": "black",
+    "price": 9.99
+  },
+  {
+    "id": 5,
+    "name": "White Shirt",
+    "type": "shirt",
+    "color": "white",
+    "price": 19.99
+  },
+  {
+    "id": 6,
+    "name": "Yellow Equipment",
+    "type": "equipment",
+    "color": "yellow",
+    "price": 29.99
+  },
+  {
+    "id": 7,
+    "name": "Black Equipment",
+    "type": "equipment",
+    "color": "brown",
+    "price": 29.99
+  },
+  {
+    "id": 8,
+    "name": "Red Shorts",
+    "type": "shorts",
+    "color": "red",
+    "price": 14.99
+  }
+]

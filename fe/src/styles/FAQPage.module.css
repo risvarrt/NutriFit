@@ -1,0 +1,25 @@
+.faqPage {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  text-align: center;
+  padding-top: 65px;
+  margin-bottom: 30px;
+}
+
+.stillQuestions {
+  text-align: center;
+}
+
+.stillQuestions h2 {
+  margin-bottom: 10px;
+}
+
+.stillQuestions p {
+  margin-bottom: 20px;
+  color: #000000;
+}

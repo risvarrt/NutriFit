@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(
+    to right,
+    rgba(4, 67, 36, 0.6),
+    rgba(76, 55, 57, 0.8)
+  );
+  background-attachment: fixed;
+  backdrop-filter: blur(15px);
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+.home-container {
+  padding-top: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.hover-banner,
+.slogan-banner {
+  transition: transform 0.3s, box-shadow 0.3s, background 0.3s;
+  cursor: pointer;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: center;
+  padding: 40px 0;
+  position: relative;
+  margin-bottom: 40px;
+  overflow: hidden;
+}
+
+.hover-banner::before,
+.slogan-banner::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+  transition: background 0.6s;
+}
+
+.hover-banner:hover,
+.slogan-banner:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.hover-banner:hover::before,
+.slogan-banner:hover::before {
+  background: rgba(170, 170, 170, 0.1);
+}
+
+.hover-card {
+  transition: transform 0.9s, box-shadow 0.9s, background 0.9s, color 0.9s;
+  cursor: pointer;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  color: #333;
+}
+
+.hover-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4);
+  background: rgba(0, 0, 0, 0.1);
+  color: white;
+}
+
+.hover-card:hover .MuiTypography-root {
+  color: white;
+}
+
+button {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+button:hover {
+  background-color: #333;
+  color: white;
+}
+
+.slogan-banner h1 {
+  padding: 10%;
+  font-size: 2.5em;
+  font-weight: 700;
+  position: relative;
+  z-index: 1;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.section,
+.list-container {
+  width: 100%;
+  margin: 40px 0;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.banner {
+  background-color: #1abc9c;
+  color: white;
+  padding: 15px 20px;
+  position: absolute;
+  top: 0;
+  z-index: 1;
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+.workout-banner {
+  left: 0;
+  border-radius: 0 0 8px 8px;
+}
+
+.recipe-banner {
+  right: 0;
+  left: auto;
+  border-radius: 8px 8px 0 0;
+}
+
+.card {
+  display: inline-block;
+  min-width: 200px;
+  max-width: 300px;
+  margin-right: 10px;
+  border-radius: 10px;
+}

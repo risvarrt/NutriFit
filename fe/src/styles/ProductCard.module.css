@@ -1,0 +1,104 @@
+.product-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s, background 0.3s, color 0.3s;
+  width: 250px;
+  height: 380px; /* Adjusted height to fit all elements */
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.product-card:hover {
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4);
+  transform: translateY(-10px);
+  background: rgba(0, 0, 0, 0.1);
+  color: white;
+}
+
+.product-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 10px; /* Added space between image and text */
+}
+
+.product-card h3 {
+  margin: 10px 0;
+  font-size: 1.2em;
+  color: inherit; /* Ensure color changes on hover */
+}
+
+.product-card p {
+  margin: 10px 0;
+  color: inherit; /* Ensure color changes on hover */
+  font-size: 1.1em; /* Increased font size for better readability */
+}
+
+.product-card button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.product-card button:hover {
+  background-color: #0056b3;
+}
+
+.view-products-page {
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.view-products-page h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 2em;
+  padding-top: 65px;
+  color: #333;
+}
+
+.filters {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.search-bar {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.search-bar input {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  justify-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.product-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}

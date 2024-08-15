@@ -1,0 +1,183 @@
+/* Created by Poojitha Mummadi */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7e5d8;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-center;
+  height: 100vh;
+  padding-top: 150px;
+}
+
+.container {
+  background: linear-gradient(to right, #a5b4aa, #caa8a6);
+  padding: 20px;
+  border-radius: 10px;
+  width: 100%;
+  max-width: 1000px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column; /* Ensure column layout for form elements */
+  align-items: center;
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+
+  .form-actions {
+    flex-direction: column; /* Stack buttons vertically on small screens */
+  }
+
+  .btn-metrics-history {
+    margin-top: 10px; /* Add margin-top to separate buttons */
+  }
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+form {
+  width: 100%;
+}
+
+.form-group {
+  margin-bottom: 15px;
+  position: relative;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  color: #333;
+  text-align: left; /* Align label to the left */
+}
+
+.input-group {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.input-group input,
+.input-group select {
+  padding: 10px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.input-group input {
+  width: calc(100% - 70px); /* Adjust width to account for the select element */
+  border-radius: 5px 0 0 5px;
+}
+
+.input-group select {
+  width: 70px;
+  border-radius: 0 5px 5px 0;
+  appearance: none;
+}
+
+.form-group input[type="date"] {
+  width: 100%; /* Make the date input full width */
+  border-radius: 5px 0 0 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.form-group input.error,
+.form-group textarea.error {
+  border: 1px solid red;
+}
+
+.error-message {
+  color: red;
+  font-size: 12px;
+}
+
+.form-group textarea {
+  width: 100%;
+  resize: vertical;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.form-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* Align items to the center */
+}
+
+.left-actions {
+  display: flex;
+  gap: 10px; /* Space between Save and Cancel buttons */
+}
+
+.btn-save,
+.btn-cancel,
+.btn-metrics-history {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center; /* Center text in button */
+  text-decoration: none; /* Remove underline from link */
+  display: inline-block; /* Ensure buttons are inline-block */
+  margin: 5px; /* Add some margin between buttons */
+}
+
+.btn-save {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.btn-cancel {
+  background-color: #6c757d;
+  color: #fff;
+}
+
+.btn-metrics-history {
+  background-color: #28a745; /* Green background for metrics history button */
+  color: #fff;
+  margin-bottom: 0; /* Remove the bottom margin */
+}
+
+.btn-edit {
+  background-color: #28a745; /* Green background for metrics history button */
+  color: #fff;
+  margin-bottom: 0; /* Remove the bottom margin */
+}
+
+/* Modal styling */
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.75); /* Faded background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000; /* Ensure overlay is above all other elements */
+}
+
+.modal {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 500px;
+  width: 100%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  z-index: 1001; /* Ensure modal is above overlay */
+  margin: auto; /* Center the modal */
+}

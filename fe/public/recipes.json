@@ -1,0 +1,85 @@
+{
+    "recipes": [
+      {
+        "id": "1",
+        "name": "Spaghetti Bolognese",
+        "image": "easy.jpg",
+        "ingredients": [
+          "200g spaghetti",
+          "100g minced beef",
+          "1 onion",
+          "2 cloves of garlic",
+          "400g canned tomatoes",
+          "Salt",
+          "Pepper",
+          "Olive oil"
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Chicken Curry",
+        "image": "easy.jpg",
+        "ingredients": [
+          "500g chicken breast",
+          "2 onions",
+          "3 cloves of garlic",
+          "1 tbsp curry powder",
+          "400g canned coconut milk",
+          "Salt",
+          "Pepper",
+          "Olive oil"
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Grilled Salmon",
+        "image": "easy.jpg",
+        "ingredients": [
+          "200g salmon fillet",
+          "Lemon",
+          "Salt",
+          "Pepper",
+          "Olive oil"
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Vegetable Stir Fry",
+        "image": "easy.jpg",
+        "ingredients": [
+          "200g mixed vegetables",
+          "Soy sauce",
+          "Ginger",
+          "Garlic",
+          "Olive oil"
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Beef Tacos",
+        "image": "easy.jpg",
+        "ingredients": [
+          "200g minced beef",
+          "Taco shells",
+          "Lettuce",
+          "Tomatoes",
+          "Cheese",
+          "Sour cream",
+          "Taco seasoning"
+        ]
+      },
+      {
+        "id": "6",
+        "name": "Pancakes",
+        "image": "easy.jpg",
+        "ingredients": [
+          "200g flour",
+          "2 eggs",
+          "300ml milk",
+          "Butter",
+          "Maple syrup"
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,127 @@
+{
+    "id": 1,
+    "name": "Flexibility Enhancement Program",
+    "description": "A comprehensive program designed to improve flexibility and range of motion through targeted stretching and mobility exercises.",
+    "duration": "8 weeks",
+    "level": "Intermediate",
+    "targetAudience": "Individuals looking to increase their flexibility and mobility.",
+    "type": "Flexibility",
+    "goal": "Flexibility",
+    "equipment": "No Equipment",
+    "location": "Home",
+    "caloriesBurned": "200-400",
+    "imageUrl":"/1.webp",
+    "weeklyPlan": {
+      "Monday": {
+        "focus": "Lower Body Flexibility",
+        "exercises": [
+          {
+            "name": "Hamstring Stretch",
+            "sets": 3,
+            "duration": "30 seconds",
+            "rest": "30 seconds",
+            "formTip": "Keep your back straight and reach towards your toes, feeling the stretch in your hamstrings.",
+            "exercise_image": "exercises/Hamstring Stretch.webp"
+          },
+          {
+            "name": "Quad Stretch",
+            "sets": 3,
+            "duration": "30 seconds",
+            "rest": "30 seconds",
+            "formTip": "Pull your heel towards your glutes, keeping your knees together.",
+            "exercise_image": "exercises/Hamstring Stretch.webp"
+          }
+        ]
+      },
+      "Tuesday": {
+        "focus": "Upper Body Flexibility",
+        "exercises": [
+          {
+            "name": "Shoulder Stretch",
+            "sets": 3,
+            "duration": "30 seconds",
+            "rest": "30 seconds",
+            "formTip": "Pull your arm across your chest, feeling the stretch in your shoulder.",
+            "exercise_image": "exercises/Hamstring Stretch.webp"
+          },
+          {
+            "name": "Tricep Stretch",
+            "sets": 3,
+            "duration": "30 seconds",
+            "rest": "30 seconds",
+            "formTip": "Reach your hand down your back and gently pull your elbow.",
+            "exercise_image": "exercises/Hamstring Stretch.webp"
+          }
+        ]
+      },
+      "Wednesday": {
+        "restDay": true
+      },
+      "Thursday": {
+        "focus": "Full Body Flexibility",
+        "exercises": [
+          {
+            "name": "Cat-Cow Stretch",
+            "sets": 3,
+            "duration": "30 seconds",
+            "rest": "30 seconds",
+            "formTip": "Alternate between arching and rounding your back, moving smoothly between the two positions.",
+            "exercise_image": "exercises/Hamstring Stretch.webp"
+          },
+          {
+            "name": "Child's Pose",
+            "sets": 3,
+            "duration": "60 seconds",
+            "rest": "30 seconds",
+            "formTip": "Sit back on your heels and stretch your arms forward, relaxing your body.",
+            "exercise_image": "exercises/Hamstring Stretch.webp"
+          }
+        ]
+      },
+      "Friday": {
+        "focus": "Hip Flexibility",
+        "exercises": [
+          {
+            "name": "Hip Flexor Stretch",
+            "sets": 3,
+            "duration": "30 seconds",
+            "rest": "30 seconds",
+            "formTip": "Lunge forward and push your hips down, feeling the stretch in your hip flexors.",
+            "exercise_image": "exercises/Hamstring Stretch.webp"
+          },
+          {
+            "name": "Butterfly Stretch",
+            "sets": 3,
+            "duration": "30 seconds",
+            "rest": "30 seconds",
+            "formTip": "Sit with your feet together and gently press your knees towards the ground.",
+            "exercise_image": "exercises/Hamstring Stretch.webp"
+          }
+        ]
+      },
+      "Saturday": {
+        "focus": "Spinal Flexibility",
+        "exercises": [
+          {
+            "name": "Seated Twist",
+            "sets": 3,
+            "duration": "30 seconds",
+            "rest": "30 seconds",
+            "formTip": "Sit with your legs extended and twist your torso to one side, using your arm for leverage.",
+            "exercise_image": "exercises/Hamstring Stretch.webp"
+          },
+          {
+            "name": "Bridge Pose",
+            "sets": 3,
+            "duration": "30 seconds",
+            "rest": "30 seconds",
+            "formTip": "Lift your hips towards the ceiling, pressing your feet into the ground.",
+            "exercise_image": "exercises/Hamstring Stretch.webp"
+          }
+        ]
+      },
+      "Sunday": {
+        "restDay": true
+      }
+    }
+  }

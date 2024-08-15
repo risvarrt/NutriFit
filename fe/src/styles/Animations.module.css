@@ -1,0 +1,12 @@
+@keyframes backgroundMotion {
+    0% {
+      background-position: 50% 50%;
+    }
+    50% {
+      background-position: 55% 55%;
+    }
+    100% {
+      background-position: 50% 50%;
+    }
+  }
+  

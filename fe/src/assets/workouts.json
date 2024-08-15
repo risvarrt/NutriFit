@@ -1,0 +1,969 @@
+[
+  {
+    "createdBy": 6,
+    "name": "Fat Burning HIIT Program",
+    "description": "An intense HIIT program designed to maximize fat loss through high-intensity interval training.",
+    "duration": "6",
+    "trainer": "Alex Morgan",
+    "level": "Beginner",
+    "targetAudience": "Individuals looking to burn fat quickly.",
+    "type": "HIIT",
+    "goal": "Fat Loss",
+    "equipment": "No Equipment",
+    "location": "Home",
+    "caloriesBurned": "500-600",
+    "imagelink": "https://cdn.pixabay.com/photo/2021/01/13/16/46/workout-5914643_640.jpg",
+    "weeklyPlan": {
+      "Monday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Jump Squats",
+            "sets": 4,
+            "reps": 15,"duration": "30",
+            "rest": "20",
+            "formTip": "Keep your back straight and jump explosively from a squat position.",
+            "focus": "Thighs"
+          },
+          {
+            "name": "Burpees",
+            "sets": 4,
+            "reps": 15,"duration": "30",
+            "rest": "20",
+            "formTip": "Jump up, squat down, kick your legs back, and return to the squat.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Tuesday": {
+        "focus": [],
+        "restDay": true
+      },
+      "Wednesday": {
+        "focus": ["Thighs", "Cardio"],
+        "exercises": [
+          {
+            "name": "Lunges",
+            "sets": 4,
+            "reps": 15,"duration": "30",
+            "rest": "20",
+            "formTip": "Step forward and lower your hips until both knees are bent at 90 degrees.",
+            "focus": "Thighs"
+          },
+          {
+            "name": "High Knees",
+            "sets": 4,
+            "reps": 15,"duration": "30",
+            "rest": "20",
+            "formTip": "Run in place, bringing your knees up to your chest.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Thursday": {
+        "focus": ["Shoulder"],
+        "exercises": [
+          {
+            "name": "Shoulder Taps",
+            "sets": 4,
+            "reps": 15,"duration": "30",
+            "rest": "20",
+            "formTip": "In a plank position, tap each shoulder with the opposite hand.",
+            "focus": "Shoulder"
+          },
+          {
+            "name": "Mountain Climbers",
+            "sets": 4,
+            "reps": 15,"duration": "30",
+            "rest": "20",
+            "formTip": "Run in place in a plank position, bringing your knees to your chest.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Friday": {
+        "focus": ["Chest", "Triceps"],
+        "exercises": [
+          {
+            "name": "Push-Ups",
+            "sets": 4,
+            "reps": 15,"duration": "30",
+            "rest": "20",
+            "formTip": "Lower your body until your chest nearly touches the floor.",
+            "focus": "Chest"
+          },
+          {
+            "name": "Tricep Dips",
+            "sets": 4,
+            "reps": 15,"duration": "30",
+            "rest": "20",
+            "formTip": "Lower your body until your arms are at a 90-degree angle.",
+            "focus": "Triceps"
+          }
+        ]
+      },
+      "Saturday": {
+        "focus": ["Lats", "Cardio"],
+        "exercises": [
+          {
+            "name": "Pull-Ups",
+            "sets": 4,
+            "reps": 15,"duration": "30",
+            "rest": "20",
+            "formTip": "Pull yourself up until your chin is above the bar.",
+            "focus": "Lats"
+          },
+          {
+            "name": "Plank",
+            "sets": 4,
+            "reps": 1,"duration": "30",
+            "rest": "30",
+            "formTip": "Hold a plank position, keeping your body in a straight line.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Sunday": {
+        "restDay": true
+      }
+    }
+  },
+  {
+    "createdBy": 7,
+    "name": "Strength Building Program",
+    "description": "A strength training program aimed at building muscle and enhancing overall strength.",
+    "duration": "12",
+    "trainer": "Jamie Lee",
+    "level": "Intermediate",
+    "targetAudience": "Individuals aiming to increase muscle mass and strength.",
+    "type": "Strength Training",
+    "goal": "Muscle Gain",
+    "equipment": "Dumbbells",
+    "location": "Gym",
+    "caloriesBurned": "300-400",
+    "imagelink": "https://cdn.pixabay.com/photo/2019/11/11/12/12/woman-4618189_640.jpg",
+    "weeklyPlan": {
+      "Monday": {
+        "focus": ["Chest"],
+        "exercises": [
+          {
+            "name": "Bench Press",
+            "sets": 4,
+            "reps": 10,"duration": "30",
+            "rest": "60",
+            "formTip": "Keep your feet flat on the ground and press the bar straight up.",
+            "focus": "Chest"
+          },
+          {
+            "name": "Chest Fly",
+            "sets": 3,
+            "reps": 12,"duration": "30",
+            "rest": "60",
+            "formTip": "Extend your arms wide and bring them back together.",
+            "focus": "Chest"
+          }
+        ]
+      },
+      "Tuesday": {
+        "focus": ["Back", "Lats"],
+        "exercises": [
+          {
+            "name": "Deadlift",
+            "sets": 4,
+            "reps": 10,"duration": "30",
+            "rest": "60",
+            "formTip": "Keep your back straight and lift with your legs.",
+            "focus": "Lats"
+          },
+          {
+            "name": "Lat Pulldown",
+            "sets": 3,
+            "reps": 12,"duration": "30",
+            "rest": "60",
+            "formTip": "Pull the bar down to your chest, squeezing your back muscles.",
+            "focus": "Lats"
+          }
+        ]
+      },
+      "Wednesday": {
+        "restDay": true
+      },
+      "Thursday": {
+        "focus": ["Legs", "Thighs"],
+        "exercises": [
+          {
+            "name": "Squats",
+            "sets": 4,
+            "reps": 10,"duration": "30",
+            "rest": "60",
+            "formTip": "Keep your back straight and push through your heels.",
+            "focus": "Thighs"
+          },
+          {
+            "name": "Leg Press",
+            "sets": 3,
+            "reps": 12,"duration": "30",
+            "rest": "60",
+            "formTip": "Push the platform away using your legs.",
+            "focus": "Thighs"
+          }
+        ]
+      },
+      "Friday": {
+        "focus": ["Biceps", "Triceps"],
+        "exercises": [
+          {
+            "name": "Bicep Curls",
+            "sets": 4,
+            "reps": 10,"duration": "30",
+            "rest": "60",
+            "formTip": "Keep your elbows close to your body and curl the weights.",
+            "focus": "Biceps"
+          },
+          {
+            "name": "Tricep Extensions",
+            "sets": 3,
+            "reps": 12,"duration": "30",
+            "rest": "60",
+            "formTip": "Extend your arms overhead and lower the weights behind your head.",
+            "focus": "Triceps"
+          }
+        ]
+      },
+      "Saturday": {
+        "focus": ["Shoulder"],
+        "exercises": [
+          {
+            "name": "Shoulder Press",
+            "sets": 4,
+            "reps": 10,"duration": "30",
+            "rest": "60",
+            "formTip": "Press the weights overhead, keeping your Cardio engaged.",
+            "focus": "Shoulder"
+          },
+          {
+            "name": "Lateral Raises",
+            "sets": 3,
+            "reps": 12,"duration": "30",
+            "rest": "60",
+            "formTip": "Lift the weights to your sides until your arms are parallel to the ground.",
+            "focus": "Shoulder"
+          }
+        ]
+      },
+      "Sunday": {
+        "restDay": true
+      }
+    }
+  },
+  {
+    "createdBy": 8,
+    "name": "Cardio Kickstart Program",
+    "description": "A cardio-focused program designed to improve cardiovascular health and endurance.",
+    "duration": "10",
+    "trainer": "Taylor Smith",
+    "level": "Advanced",
+    "targetAudience": "Individuals looking to boost their cardio fitness.",
+    "type": "Cardio",
+    "goal": "Endurance",
+    "equipment": "Treadmill",
+    "location": "Gym",
+    "caloriesBurned": "400-500",
+    "imagelink": "https://cdn.pixabay.com/photo/2016/11/29/09/14/walking-1868652_640.jpg",
+    "weeklyPlan": {
+      "Monday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Treadmill Running",
+            "sets": 1,
+            "reps": 30,"duration": "30",
+            "rest": "N/A",
+            "formTip": "Maintain a steady pace and focus on your breathing.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Tuesday": {
+        "focus": ["Rest"],
+        "restDay": true
+      },
+      "Wednesday": {
+        "focus": ["Legs", "Thighs"],
+        "exercises": [
+          {
+            "name": "Cycling",
+            "sets": 1,
+            "reps": 45,"duration": "30",
+            "rest": "N/A",
+            "formTip": "Keep a steady rhythm and adjust resistance as needed.",
+            "focus": "Thighs"
+          }
+        ]
+      },
+      "Thursday": {
+        "focus": ["Shoulder"],
+        "exercises": [
+          {
+            "name": "Rowing Machine",
+            "sets": 1,
+            "reps": 30,"duration": "30",
+            "rest": "N/A",
+            "formTip": "Keep your back straight and pull the handle towards your chest.",
+            "focus": "Shoulder"
+          }
+        ]
+      },
+      "Friday": {
+        "focus": ["Chest", "Triceps"],
+        "exercises": [
+          {
+            "name": "Elliptical",
+            "sets": 1,
+            "reps": 45,"duration": "30",
+            "rest": "N/A",
+            "formTip": "Maintain a steady pace and keep your Cardio engaged.",
+            "focus": "Chest"
+          }
+        ]
+      },
+      "Saturday": {
+        "focus": ["Lats", "Cardio"],
+        "exercises": [
+          {
+            "name": "Stair Climber",
+            "sets": 1,
+            "reps": 30,"duration": "30",
+            "rest": "N/A",
+            "formTip": "Keep a steady pace and use the handrails for balance.",
+            "focus": "Lats"
+          }
+        ]
+      },
+      "Sunday": {
+        "restDay": true
+      }
+    }
+  },
+  {
+    "createdBy": 9,
+    "name": "Yoga for Flexibility",
+    "description": "A yoga program aimed at enhancing flexibility and promoting relaxation through various yoga poses.",
+    "duration": "8",
+    "trainer": "Samantha Lee",
+    "level": "Beginner",
+    "targetAudience": "Individuals looking to improve flexibility and reduce stress.",
+    "type": "Yoga",
+    "goal": "Flexibility",
+    "equipment": "Yoga Mat",
+    "location": "Home",
+    "caloriesBurned": "200-300",
+    "imagelink": "https://cdn.pixabay.com/photo/2016/03/27/07/08/man-1282232_640.jpg",
+    "weeklyPlan": {
+      "Monday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Downward Dog",
+            "sets": 3,
+            "reps": 10,"duration": "30",
+            "rest": "30",
+            "formTip": "Press your heels towards the ground and lift your hips.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Tuesday": {
+        "focus": ["Rest"],
+        "restDay": true
+      },
+      "Wednesday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Seated Forward Bend",
+            "sets": 3,
+            "reps": 10,"duration": "30",
+            "rest": "30",
+            "formTip": "Reach forward towards your toes, keeping your back straight.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Thursday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Cobra Pose",
+            "sets": 3,
+            "reps": 10,"duration": "30",
+            "rest": "30",
+            "formTip": "Lift your chest off the ground, keeping your elbows close to your body.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Friday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Pigeon Pose",
+            "sets": 3,
+            "reps": 10,"duration": "30",
+            "rest": "30",
+            "formTip": "Extend one leg back and lower your hips towards the ground.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Saturday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Bridge Pose",
+            "sets": 3,
+            "reps": 10,"duration": "30",
+            "rest": "30",
+            "formTip": "Lift your hips towards the ceiling, pressing your feet into the ground.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Sunday": {
+        "restDay": true
+      }
+    }
+  },
+  {
+    "createdBy": 10,
+    "name": "Pilates Cardio Strength",
+    "description": "A Pilates program designed to build Cardio strength and improve overall body toning.",
+    "duration": "6",
+    "trainer": "Grace Kim",
+    "level": "Intermediate",
+    "targetAudience": "Individuals looking to strengthen their Cardio and tone their body.",
+    "type": "Pilates",
+    "goal": "Body Toning",
+    "equipment": "Resistance Band",
+    "location": "Home",
+    "caloriesBurned": "200-300",
+    "imagelink": "https://cdn.pixabay.com/photo/2024/04/17/21/49/ai-generated-8703075_640.jpg",
+    "weeklyPlan": {
+      "Monday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Pilates 100",
+            "sets": 1,
+            "reps": 50,"duration": "30",
+            "rest": "30",
+            "formTip": "Pump your arms while keeping your legs lifted and Cardio engaged.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Tuesday": {
+        "focus": ["Rest"],
+        "restDay": true
+      },
+      "Wednesday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Plank Leg Lifts",
+            "sets": 3,
+            "reps": 10,"duration": "30",
+            "rest": "30",
+            "formTip": "Lift one leg at a time while holding a plank position.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Thursday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Leg Circles",
+            "sets": 3,
+            "reps": 10,"duration": "30",
+            "rest": "30",
+            "formTip": "Draw circles with your leg while lying on your back.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Friday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Arm Circles",
+            "sets": 3,
+            "reps": 10,"duration": "30",
+            "rest": "30",
+            "formTip": "Draw circles with your arms while standing.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Saturday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Side Plank",
+            "sets": 3,
+            "reps": 10,"duration": "30",
+            "rest": "30",
+            "formTip": "Hold a side plank, keeping your body in a straight line.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Sunday": {
+        "restDay": true
+      }
+    }
+  },
+  {
+    "createdBy": 11,
+    "name": "CrossFit Strength and Conditioning",
+    "description": "A CrossFit program focusing on building strength and conditioning through varied and high-intensity functional movements.",
+    "duration": "12",
+    "trainer": "Chris Evans",
+    "level": "Advanced",
+    "targetAudience": "Individuals looking for a challenging and varied workout.",
+    "type": "CrossFit",
+    "goal": "Overall Health",
+    "equipment": "Barbell, Kettlebell",
+    "location": "Gym",
+    "caloriesBurned": "600-700",
+    "imagelink": "https://cdn.pixabay.com/photo/2024/04/17/21/49/ai-generated-8703047_640.jpg",
+    "weeklyPlan": {
+      "Monday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Fran",
+            "sets": 1,
+            "reps": 45,"duration": "30",
+            "rest": "N/A",
+            "formTip": "21-15-9 reps of thrusters and pull-ups.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Tuesday": {
+        "focus": ["Rest"],
+        "restDay": true
+      },
+      "Wednesday": {
+        "focus": ["Thighs"],
+        "exercises": [
+          {
+            "name": "Back Squat",
+            "sets": 5,
+            "reps": 5,"duration": "30",
+            "rest": "90",
+            "formTip": "Keep your back straight and push through your heels.",
+            "focus": "Thighs"
+          }
+        ]
+      },
+      "Thursday": {
+        "focus": ["Shoulder"],
+        "exercises": [
+          {
+            "name": "Shoulder Press",
+            "sets": 5,
+            "reps": 5,"duration": "30",
+            "rest": "90",
+            "formTip": "Press the bar overhead, keeping your Cardio engaged.",
+            "focus": "Shoulder"
+          }
+        ]
+      },
+      "Friday": {
+        "focus": ["Chest"],
+        "exercises": [
+          {
+            "name": "Bench Press",
+            "sets": 5,
+            "reps": 5,"duration": "30",
+            "rest": "90",
+            "formTip": "Press the bar straight up, keeping your feet flat on the ground.",
+            "focus": "Chest"
+          }
+        ]
+      },
+      "Saturday": {
+        "focus": ["Lats"],
+        "exercises": [
+          {
+            "name": "Deadlift",
+            "sets": 5,
+            "reps": 5,"duration": "30",
+            "rest": "90",
+            "formTip": "Keep your back straight and lift with your legs.",
+            "focus": "Lats"
+          }
+        ]
+      },
+      "Sunday": {
+        "restDay": true
+      }
+    }
+  },
+  {
+    "createdBy": 12,
+    "name": "Outdoor Endurance Training",
+    "description": "An outdoor training program aimed at improving endurance and cardiovascular health through various running and bodyweight exercises.",
+    "duration": "8",
+    "trainer": "Jordan Parker",
+    "level": "Intermediate",
+    "targetAudience": "Individuals looking to enhance their endurance and enjoy outdoor workouts.",
+    "type": "Cardio",
+    "goal": "Endurance",
+    "equipment": "No Equipment",
+    "location": "Outdoor",
+    "caloriesBurned": "400-500",
+    "imagelink": "https://cdn.pixabay.com/photo/2024/05/09/00/16/ai-generated-8749324_640.png",
+    "weeklyPlan": {
+      "Monday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Outdoor Running",
+            "sets": 1,
+            "reps": 30,"duration": "30",
+            "rest": "N/A",
+            "formTip": "Maintain a steady pace and focus on your breathing.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Tuesday": {
+        "focus": ["Rest"],
+        "restDay": true
+      },
+      "Wednesday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Pull-Ups",
+            "sets": 3,
+            "reps": 10,"duration": "30",
+            "rest": "60",
+            "formTip": "Pull yourself up until your chin is above the bar.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Thursday": {
+        "focus": ["Thighs"],
+        "exercises": [
+          {
+            "name": "Lunges",
+            "sets": 3,
+            "reps": 15,"duration": "30",
+            "rest": "60",
+            "formTip": "Step forward and lower your hips until both knees are bent at 90 degrees.",
+            "focus": "Thighs"
+          }
+        ]
+      },
+      "Friday": {
+        "focus": ["Lats"],
+        "exercises": [
+          {
+            "name": "Chin-Ups",
+            "sets": 3,
+            "reps": 10,"duration": "30",
+            "rest": "60",
+            "formTip": "Pull yourself up with an underhand grip until your chin is above the bar.",
+            "focus": "Lats"
+          }
+        ]
+      },
+      "Saturday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Burpees",
+            "sets": 3,
+            "reps": 15,"duration": "30",
+            "rest": "60",
+            "formTip": "Jump up, squat down, kick your legs back, and return to the squat.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Sunday": {
+        "restDay": true
+      }
+    }
+  },
+  {
+    "createdBy": 13,
+    "name": "Gym Strength and Conditioning",
+    "description": "A gym-based program aimed at improving overall strength and conditioning through a variety of exercises.",
+    "duration": "10",
+    "trainer": "Morgan Taylor",
+    "level": "Advanced",
+    "targetAudience": "Individuals looking for a comprehensive strength and conditioning workout.",
+    "type": "Strength Training",
+    "goal": "Muscle Gain",
+    "equipment": "Barbell, Dumbbells",
+    "location": "Gym",
+    "caloriesBurned": "500-600",
+    "imagelink": "https://cdn.pixabay.com/photo/2017/04/28/03/21/run-2267283_640.jpg",
+    "weeklyPlan": {
+      "Monday": {
+        "focus": ["Chest"],
+        "exercises": [
+          {
+            "name": "Bench Press",
+            "sets": 5,
+            "reps": 5,"duration": "30",
+            "rest": "60",
+            "formTip": "Keep your feet flat on the ground and press the bar straight up.",
+            "focus": "Chest"
+          }
+        ]
+      },
+      "Tuesday": {
+        "focus": ["Thighs"],
+        "exercises": [
+          {
+            "name": "Squats",
+            "sets": 5,
+            "reps": 5,"duration": "30",
+            "rest": "60",
+            "formTip": "Keep your back straight and push through your heels.",
+            "focus": "Thighs"
+          }
+        ]
+      },
+      "Wednesday": {
+        "restDay": true
+      },
+      "Thursday": {
+        "focus": ["Shoulder"],
+        "exercises": [
+          {
+            "name": "Shoulder Press",
+            "sets": 5,
+            "reps": 5,"duration": "30",
+            "rest": "60",
+            "formTip": "Press the weights overhead, keeping your Cardio engaged.",
+            "focus": "Shoulder"
+          }
+        ]
+      },
+      "Friday": {
+        "focus": ["Lats"],
+        "exercises": [
+          {
+            "name": "Deadlift",
+            "sets": 5,
+            "reps": 5,"duration": "30",
+            "rest": "60",
+            "formTip": "Keep your back straight and lift with your legs.",
+            "focus": "Lats"
+          }
+        ]
+      },
+      "Saturday": {
+        "focus": ["Biceps"],
+        "exercises": [
+          {
+            "name": "Bicep Curls",
+            "sets": 5,
+            "reps": 10,"duration": "30",
+            "rest": "60",
+            "formTip": "Keep your elbows close to your body and curl the weights.",
+            "focus": "Biceps"
+          }
+        ]
+      },
+      "Sunday": {
+        "restDay": true
+      }
+    }
+  },
+  {
+    "createdBy": 14,
+    "name": "Home Body Toning",
+    "description": "A home-based program designed to tone the entire body through a variety of bodyweight exercises.",
+    "duration": "8",
+    "trainer": "Kendall Jackson",
+    "level": "Beginner",
+    "targetAudience": "Individuals looking to tone their body without any equipment.",
+    "type": "Bodyweight",
+    "goal": "Body Toning",
+    "equipment": "No Equipment",
+    "location": "Home",
+    "caloriesBurned": "300-400",
+    "imagelink": "https://cdn.pixabay.com/photo/2016/03/27/19/21/healthy-1283793_640.jpg",
+    "weeklyPlan": {
+      "Monday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Push-Ups",
+            "sets": 3,
+            "reps": 10,"duration": "30",
+            "rest": "60",
+            "formTip": "Lower your body until your chest nearly touches the floor.",
+            "focus": "Chest"
+          }
+        ]
+      },
+      "Tuesday": {
+        "focus": ["Thighs"],
+        "exercises": [
+          {
+            "name": "Squats",
+            "sets": 3,
+            "reps": 15,"duration": "30",
+            "rest": "60",
+            "formTip": "Keep your back straight and push through your heels.",
+            "focus": "Thighs"
+          }
+        ]
+      },
+      "Wednesday": {
+        "restDay": true
+      },
+      "Thursday": {
+        "focus": ["Biceps"],
+        "exercises": [
+          {
+            "name": "Bicep Curls",
+            "sets": 3,
+            "reps": 15,"duration": "30",
+            "rest": "60",
+            "formTip": "Keep your elbows close to your body and curl the weights.",
+            "focus": "Biceps"
+          }
+        ]
+      },
+      "Friday": {
+        "focus": ["Shoulder"],
+        "exercises": [
+          {
+            "name": "Shoulder Taps",
+            "sets": 3,
+            "reps": 15,"duration": "30",
+            "rest": "60",
+            "formTip": "In a plank position, tap each shoulder with the opposite hand.",
+            "focus": "Shoulder"
+          }
+        ]
+      },
+      "Saturday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Plank",
+            "sets": 3,
+            "reps": 1,"duration": "30",
+            "rest": "60",
+            "formTip": "Hold a plank position, keeping your body in a straight line.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Sunday": {
+        "restDay": true
+      }
+    }
+  },
+  {
+    "createdBy": 15,
+    "name": "Flexibility and Mobility Yoga",
+    "description": "A yoga program focused on improving flexibility and mobility through gentle stretching and relaxation.",
+    "duration": "6",
+    "trainer": "Lila Patel",
+    "level": "Beginner",
+    "targetAudience": "Individuals looking to enhance their flexibility and mobility.",
+    "type": "Yoga",
+    "goal": "Flexibility",
+    "equipment": "Yoga Mat",
+    "location": "Home",
+    "caloriesBurned": "100-200",
+    "imagelink": "https://cdn.pixabay.com/photo/2017/01/16/15/28/boxer-1984344_640.jpg",
+    "weeklyPlan": {
+      "Monday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Seated Forward Bend",
+            "sets": 3,
+            "reps": 10,"duration": "30",
+            "rest": "30",
+            "formTip": "Reach forward towards your toes, keeping your back straight.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Tuesday": {
+        "focus": ["Rest"],
+        "restDay": true
+      },
+      "Wednesday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Shoulder Stretch",
+            "sets": 3,
+            "reps": 10,"duration": "30",
+            "rest": "30",
+            "formTip": "Pull your arm across your chest, feeling the stretch in your shoulder.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Thursday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Cat-Cow Stretch",
+            "sets": 3,
+            "reps": 10,"duration": "30",
+            "rest": "30",
+            "formTip": "Alternate between arching and rounding your back, moving smoothly between the two positions.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Friday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Bridge Pose",
+            "sets": 3,
+            "reps": 10,"duration": "30",
+            "rest": "30",
+            "formTip": "Lift your hips towards the ceiling, pressing your feet into the ground.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Saturday": {
+        "focus": ["Cardio"],
+        "exercises": [
+          {
+            "name": "Butterfly Stretch",
+            "sets": 3,
+            "reps": 10,"duration": "30",
+            "rest": "30",
+            "formTip": "Sit with your feet together and gently press your knees towards the ground.",
+            "focus": "Cardio"
+          }
+        ]
+      },
+      "Sunday": {
+        "restDay": true
+      }
+    }
+  }
+]

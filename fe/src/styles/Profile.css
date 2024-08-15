@@ -1,0 +1,243 @@
+/* Created by Jahnavi Prasad Srirampurapu */
+
+.profile-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background: linear-gradient(
+    to right,
+    rgba(4, 67, 36, 0.6),
+    rgba(76, 55, 57, 0.8)
+  );
+  background-attachment: fixed;
+  backdrop-filter: blur(15px);
+  color: #333;
+  min-height: 100vh;
+}
+
+.profile-wrapper {
+  display: flex;
+  flex-direction: column;
+  background: rgba(255, 255, 255);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 10px 40px 10px 40px;
+  border-radius: 8px;
+  overflow: hidden;
+  max-width: 1000px;
+  width: 100%;
+}
+
+.profile-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-image {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+.profile-details {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.profile-details h2 {
+  margin-bottom: 10px;
+}
+
+.profile-details p {
+  margin: 5px 0;
+}
+
+.profile-form {
+  flex: 1;
+  padding: 40px 40px 40px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-header {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #00796b;
+}
+
+.profile-group{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+
+}
+
+.profile-input-group {
+  flex-direction: row;
+  gap: 100px;
+  width: 100%;
+  text-align: left;
+}
+
+.input-container {
+  width: 100%;
+  padding-bottom: 10px;
+}
+
+.profile-input,
+.profile-textarea {
+  width: 95%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.profile-textarea {
+  height: 100px;
+  /* resize: ; */
+  margin-bottom: 20px;
+}
+
+.profile-save-btn {
+  width: 30%;
+  padding: 10px 20px;
+  background-color: #00796b;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.profile-save-btn:hover {
+  background-color: #004d40;
+}
+
+.profile-delete-btn {
+  width: 30%;
+  padding: 10px 20px;
+  background-color: #ba0900;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.profile-delete-btn:hover {
+  background-color: #a30800;
+}
+
+.error {
+  border-color: red;
+}
+
+.required {
+  color: red;
+}
+
+.profile-info-icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.profile-info-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.profile-info-item img {
+  width: 24px;
+  height: 24px;
+}
+
+.dialog-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.dialog-box {
+  background: white;
+  padding: 20px 30px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.dialog-icon {
+  font-size: 48px;
+  color: #4caf50;
+  margin-bottom: 10px;
+}
+
+.dialog-message {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.dialog-button {
+  padding: 10px 20px;
+  background-color: #00796b;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.dialog-button:hover {
+  background-color: #004d40;
+}
+
+/* Media Queries */
+@media (min-width: 649px) {
+  .profile-wrapper {
+    flex-direction: row;
+  }
+
+  .profile-info {
+    flex: 1;
+    margin-right: 20px;
+  }
+
+  .profile-form {
+    flex: 1;
+    margin-left: 10px;
+  }
+}
+
+@media (max-width: 900px) {
+  .profile-wrapper {
+    flex-direction: column;
+  }
+
+  .profile-form {
+    width: auto;
+    padding: 20px;
+  }
+
+  .profile-input,
+  .profile-textarea,
+  .profile-submit-btn {
+    width: 95%;
+  }
+}

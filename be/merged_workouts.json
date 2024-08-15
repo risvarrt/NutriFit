@@ -1,0 +1,1907 @@
+[
+    {
+      "id": 1,
+      "name": "Flexibility Enhancement Program",
+      "description": "A comprehensive program designed to improve flexibility and range of motion through targeted stretching and mobility exercises.",
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "targetAudience": "Individuals looking to increase their flexibility and mobility.",
+      "type": "Flexibility",
+      "goal": "Flexibility",
+      "equipment": "No Equipment",
+      "location": "Home",
+      "caloriesBurned": "200-400",
+      "imageUrl": "/1.webp",
+      "weeklyPlan": {
+        "Monday": {
+          "focus": "Lower Body Flexibility",
+          "exercises": [
+            {
+              "name": "Hamstring Stretch",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Keep your back straight and reach towards your toes, feeling the stretch in your hamstrings.",
+              "exercise_image": "/exercises/Hamstring Stretch.webp"
+            },
+            {
+              "name": "Quad Stretch",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Pull your heel towards your glutes, keeping your knees together.",
+              "exercise_image": "/exercises/Quad Stretch.webp"
+            }
+          ]
+        },
+        "Tuesday": {
+          "focus": "Upper Body Flexibility",
+          "exercises": [
+            {
+              "name": "Shoulder Stretch",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Pull your arm across your chest, feeling the stretch in your shoulder.",
+              "exercise_image": "/exercises/Shoulder Stretch.webp"
+            },
+            {
+              "name": "Tricep Stretch",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Reach your hand down your back and gently pull your elbow.",
+              "exercise_image": "/exercises/Tricep Stretch.webp"
+            }
+          ]
+        },
+        "Wednesday": {
+          "restDay": true
+        },
+        "Thursday": {
+          "focus": "Full Body Flexibility",
+          "exercises": [
+            {
+              "name": "Cat-Cow Stretch",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Alternate between arching and rounding your back, moving smoothly between the two positions.",
+              "exercise_image": "/exercises/Cat-Cow Stretch.webp"
+            },
+            {
+              "name": "Child's Pose",
+              "sets": 3,
+              "duration": "60 seconds",
+              "rest": "30 seconds",
+              "formTip": "Sit back on your heels and stretch your arms forward, relaxing your body.",
+              "exercise_image": "/exercises/Child's Pose.webp"
+            }
+          ]
+        },
+        "Friday": {
+          "focus": "Hip Flexibility",
+          "exercises": [
+            {
+              "name": "Hip Flexor Stretch",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Lunge forward and push your hips down, feeling the stretch in your hip flexors.",
+              "exercise_image": "/exercises/Hip Flexor Stretch.webp"
+            },
+            {
+              "name": "Butterfly Stretch",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Sit with your feet together and gently press your knees towards the ground.",
+              "exercise_image": "/exercises/Butterfly Stretch.webp"
+            }
+          ]
+        },
+        "Saturday": {
+          "focus": "Spinal Flexibility",
+          "exercises": [
+            {
+              "name": "Seated Twist",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Sit with your legs extended and twist your torso to one side, using your arm for leverage.",
+              "exercise_image": "/exercises/Seated Twist.webp"
+            },
+            {
+              "name": "Bridge Pose",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Lift your hips towards the ceiling, pressing your feet into the ground.",
+              "exercise_image": "/exercises/Bridge Pose.webp"
+            }
+          ]
+        },
+        "Sunday": {
+          "restDay": true
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Yoga for Strength and Balance",
+      "description": "An 8-week yoga program focused on building strength, balance, and mental clarity.",
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "targetAudience": "Yoga practitioners looking to enhance strength and balance.",
+      "type": "Yoga",
+      "goal": "Balance",
+      "equipment": "Yoga Mat",
+      "location": "Home",
+      "caloriesBurned": "200-400",
+      "imageUrl": "/2.webp",
+      "weeklyPlan": {
+        "Monday": {
+          "focus": "Strength and Balance",
+          "exercises": [
+            {
+              "name": "Warrior II Pose",
+              "sets": 3,
+              "duration": "60 seconds",
+              "rest": "30 seconds",
+              "formTip": "Keep your front knee bent and back leg straight, arms extended at shoulder height.",
+              "exercise_image": "/exercises/Warrior II Pose.webp"
+            },
+            {
+              "name": "Tree Pose",
+              "sets": 3,
+              "duration": "60 seconds",
+              "rest": "30 seconds",
+              "formTip": "Balance on one leg, placing the sole of your other foot on your inner thigh.",
+              "exercise_image": "/exercises/Tree Pose.webp"
+            }
+          ]
+        },
+        "Tuesday": {
+          "focus": "Core Strength",
+          "exercises": [
+            {
+              "name": "Boat Pose",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Balance on your sit bones with your legs lifted and torso leaning back.",
+              "exercise_image": "/exercises/Boat Pose.webp"
+            },
+            {
+              "name": "Plank Pose",
+              "sets": 3,
+              "duration": "60 seconds",
+              "rest": "30 seconds",
+              "formTip": "Keep your body in a straight line from head to heels, engaging your core.",
+              "exercise_image": "/exercises/Plank Pose.webp"
+            }
+          ]
+        },
+        "Wednesday": {
+          "restDay": true
+        },
+        "Thursday": {
+          "focus": "Flexibility and Relaxation",
+          "exercises": [
+            {
+              "name": "Forward Fold",
+              "sets": 3,
+              "duration": "60 seconds",
+              "rest": "30 seconds",
+              "formTip": "Hinge at your hips and reach towards your toes, relaxing your upper body.",
+              "exercise_image": "/exercises/Forward Fold.webp"
+            },
+            {
+              "name": "Reclined Twist",
+              "sets": 3,
+              "duration": "60 seconds",
+              "rest": "30 seconds",
+              "formTip": "Lie on your back and twist your lower body to one side, keeping your shoulders on the ground.",
+              "exercise_image": "/exercises/Reclined Twist.webp"
+            }
+          ]
+        },
+        "Friday": {
+          "focus": "Upper Body Strength",
+          "exercises": [
+            {
+              "name": "Downward Dog",
+              "sets": 3,
+              "duration": "60 seconds",
+              "rest": "30 seconds",
+              "formTip": "Press your hips up and back, keeping your spine straight and heels towards the ground.",
+              "exercise_image": "/exercises/Downward Dog.webp"
+            },
+            {
+              "name": "Chaturanga",
+              "sets": 3,
+              "reps": 10,
+              "rest": "30 seconds",
+              "formTip": "Lower your body in a straight line from plank position, keeping elbows close to your sides.",
+              "exercise_image": "/exercises/Chaturanga.webp"
+            }
+          ]
+        },
+        "Saturday": {
+          "focus": "Full Body Yoga",
+          "exercises": [
+            {
+              "name": "Sun Salutations",
+              "sets": 5,
+              "duration": "5 minutes each",
+              "rest": "60 seconds",
+              "formTip": "Flow through a series of poses, linking movement with breath.",
+              "exercise_image": "/exercises/Sun Salutations.webp"
+            },
+            {
+              "name": "Child's Pose",
+              "sets": 3,
+              "duration": "60 seconds",
+              "rest": "30 seconds",
+              "formTip": "Sit back on your heels and stretch your arms forward, relaxing your body.",
+              "exercise_image": "/exercises/Child's Pose.webp"
+            }
+          ]
+        },
+        "Sunday": {
+          "restDay": true
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Weight Loss and Toning Program",
+      "description": "A structured workout plan designed to promote weight loss and muscle toning through cardio and strength training.",
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "targetAudience": "Individuals aiming to lose weight and tone their bodies.",
+      "type": "Cardio",
+      "goal": "Weight Loss",
+      "equipment": "No Equipment",
+      "location": "Home",
+      "caloriesBurned": "400-600",
+      "imageUrl": "/3.webp",
+      "weeklyPlan": {
+        "Monday": {
+          "focus": "Cardio and Lower Body Strength",
+          "exercises": [
+            {
+              "name": "Treadmill Run",
+              "sets": 1,
+              "duration": "30 minutes",
+              "rest": "N/A",
+              "formTip": "Maintain a steady pace that keeps your heart rate elevated.",
+              "exercise_image": "/exercises/Treadmill Run.webp"
+            },
+            {
+              "name": "Bodyweight Squats",
+              "sets": 3,
+              "reps": 20,
+              "rest": "30 seconds",
+              "formTip": "Keep your chest up and lower your hips until your thighs are parallel to the ground.",
+              "exercise_image": "/exercises/Bodyweight Squats.webp"
+            }
+          ]
+        },
+        "Tuesday": {
+          "focus": "Upper Body Strength",
+          "exercises": [
+            {
+              "name": "Push-Ups",
+              "sets": 4,
+              "reps": 15,
+              "rest": "45 seconds",
+              "formTip": "Keep your body in a straight line and lower your chest to the ground.",
+              "exercise_image": "/exercises/Push-Ups.webp"
+            },
+            {
+              "name": "Tricep Dips",
+              "sets": 3,
+              "reps": 15,
+              "rest": "45 seconds",
+              "formTip": "Keep your elbows close to your body and lower until your arms are at a 90-degree angle.",
+              "exercise_image": "/exercises/Tricep Dips.webp"
+            }
+          ]
+        },
+        "Wednesday": {
+          "restDay": true
+        },
+        "Thursday": {
+          "focus": "HIIT Cardio",
+          "exercises": [
+            {
+              "name": "Jumping Jacks",
+              "sets": 4,
+              "duration": "1 minute",
+              "rest": "30 seconds",
+              "formTip": "Jump your feet out and raise your arms overhead, then return to start.",
+              "exercise_image": "/exercises/Jumping Jacks.webp"
+            },
+            {
+              "name": "Burpees",
+              "sets": 4,
+              "reps": 15,
+              "rest": "45 seconds",
+              "formTip": "Drop into a squat, kick your feet back into a plank, then jump up.",
+              "exercise_image": "/exercises/Burpees.webp"
+            }
+          ]
+        },
+        "Friday": {
+          "focus": "Core and Cardio",
+          "exercises": [
+            {
+              "name": "Bicycle Crunches",
+              "sets": 3,
+              "reps": "20 each side",
+              "rest": "30 seconds",
+              "formTip": "Lie on your back and bring your opposite elbow to your knee, twisting your torso.",
+              "exercise_image": "/exercises/Bicycle Crunches.webp"
+            },
+            {
+              "name": "Mountain Climbers",
+              "sets": 4,
+              "duration": "1 minute",
+              "rest": "30 seconds",
+              "formTip": "Run your knees towards your chest from a plank position, keeping your core tight.",
+              "exercise_image": "/exercises/Mountain Climbers.webp"
+            }
+          ]
+        },
+        "Saturday": {
+          "focus": "Full Body Conditioning",
+          "exercises": [
+            {
+              "name": "Jump Rope",
+              "sets": 4,
+              "duration": "2 minutes",
+              "rest": "1 minute",
+              "formTip": "Jump with both feet together, keeping a steady rhythm.",
+              "exercise_image": "/exercises/Jump Rope.webp"
+            },
+            {
+              "name": "Bodyweight Lunges",
+              "sets": 3,
+              "reps": "15 each leg",
+              "rest": "45 seconds",
+              "formTip": "Step forward and lower your back knee towards the ground, keeping your front knee over your ankle.",
+              "exercise_image": "/exercises/Bodyweight Lunges.webp"
+            }
+          ]
+        },
+        "Sunday": {
+          "restDay": true
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "High-Intensity Interval Training (HIIT)",
+      "description": "A high-intensity program focusing on short bursts of intense activity followed by recovery periods to maximize calorie burn and improve cardiovascular health.",
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "targetAudience": "Fitness enthusiasts looking to improve cardiovascular health and burn fat.",
+      "type": "HIIT",
+      "goal": "Cardiovascular Health",
+      "equipment": "No Equipment",
+      "location": "Home",
+      "caloriesBurned": "600+",
+      "imageUrl": "/4.webp",
+      "weeklyPlan": {
+        "Monday": {
+          "focus": "HIIT",
+          "exercises": [
+            {
+              "name": "Sprints",
+              "sets": 6,
+              "duration": "30 seconds",
+              "rest": "60 seconds",
+              "formTip": "Sprint at maximum effort for 30 seconds, then walk or jog for recovery.",
+              "exercise_image": "/exercises/Sprints.webp"
+            },
+            {
+              "name": "High Knees",
+              "sets": 4,
+              "duration": "1 minute",
+              "rest": "30 seconds",
+              "formTip": "Run in place, lifting your knees as high as possible.",
+              "exercise_image": "/exercises/High Knees.webp"
+            }
+          ]
+        },
+        "Tuesday": {
+          "focus": "Full Body Strength",
+          "exercises": [
+            {
+              "name": "Dumbbell Squats",
+              "sets": 4,
+              "reps": 12,
+              "rest": "45 seconds",
+              "formTip": "Hold a dumbbell in each hand and lower your hips until your thighs are parallel to the ground.",
+              "exercise_image": "/exercises/Dumbbell Squats.webp"
+            },
+            {
+              "name": "Dumbbell Rows",
+              "sets": 4,
+              "reps": 12,
+              "rest": "45 seconds",
+              "formTip": "Hinge at the hips and pull the dumbbells towards your waist, keeping your back straight.",
+              "exercise_image": "/exercises/Dumbbell Rows.webp"
+            }
+          ]
+        },
+        "Wednesday": {
+          "restDay": true
+        },
+        "Thursday": {
+          "focus": "Cardio and Core",
+          "exercises": [
+            {
+              "name": "Jump Rope",
+              "sets": 4,
+              "duration": "2 minutes",
+              "rest": "1 minute",
+              "formTip": "Jump with both feet together, keeping a steady rhythm.",
+              "exercise_image": "/exercises/Jump Rope.webp"
+            },
+            {
+              "name": "Plank",
+              "sets": 3,
+              "duration": "1 minute",
+              "rest": "30 seconds",
+              "formTip": "Keep your body in a straight line from head to heels, engaging your core.",
+              "exercise_image": "/exercises/Plank.webp"
+            }
+          ]
+        },
+        "Friday": {
+          "focus": "Upper Body Strength",
+          "exercises": [
+            {
+              "name": "Push-Ups",
+              "sets": 4,
+              "reps": 15,
+              "rest": "45 seconds",
+              "formTip": "Keep your body in a straight line and lower your chest to the ground.",
+              "exercise_image": "/exercises/Push-Ups.webp"
+            },
+            {
+              "name": "Tricep Dips",
+              "sets": 3,
+              "reps": 15,
+              "rest": "45 seconds",
+              "formTip": "Keep your elbows close to your body and lower until your arms are at a 90-degree angle.",
+              "exercise_image": "/exercises/Tricep Dips.webp"
+            }
+          ]
+        },
+        "Saturday": {
+          "focus": "HIIT",
+          "exercises": [
+            {
+              "name": "Burpees",
+              "sets": 4,
+              "reps": 15,
+              "rest": "45 seconds",
+              "formTip": "Drop into a squat, kick your feet back into a plank, then jump up.",
+              "exercise_image": "/exercises/Burpees.webp"
+            },
+            {
+              "name": "Jump Squats",
+              "sets": 4,
+              "reps": 15,
+              "rest": "45 seconds",
+              "formTip": "Lower into a squat and jump explosively, landing softly and immediately going into the next rep.",
+              "exercise_image": "/exercises/Jump Squats.webp"
+            }
+          ]
+        },
+        "Sunday": {
+          "restDay": true
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Pilates Core Strengthening",
+      "description": "A Pilates program aimed at strengthening the core muscles, improving posture, and enhancing overall body strength.",
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "targetAudience": "Individuals looking to strengthen their core and improve posture.",
+      "type": "Pilates",
+      "goal": "Core Strength",
+      "equipment": "No Equipment",
+      "location": "Home",
+      "caloriesBurned": "200-400",
+      "imageUrl": "/5.webp",
+      "weeklyPlan": {
+        "Monday": {
+          "focus": "Core Strength",
+          "exercises": [
+            {
+              "name": "Pilates Roll-Up",
+              "sets": 3,
+              "reps": 15,
+              "rest": "30 seconds",
+              "formTip": "Lie on your back and roll up to a seated position, then slowly roll back down.",
+              "exercise_image": "/exercises/Pilates Roll-Up.webp"
+            },
+            {
+              "name": "Plank",
+              "sets": 3,
+              "duration": "1 minute",
+              "rest": "30 seconds",
+              "formTip": "Keep your body in a straight line from head to heels, engaging your core.",
+              "exercise_image": "/exercises/Plank.webp"
+            }
+          ]
+        },
+        "Tuesday": {
+          "focus": "Upper Body Strength",
+          "exercises": [
+            {
+              "name": "Pilates Push-Up",
+              "sets": 3,
+              "reps": 10,
+              "rest": "30 seconds",
+              "formTip": "Lower your chest to the ground, keeping your elbows close to your body.",
+              "exercise_image": "/exercises/Pilates Push-Up.webp"
+            },
+            {
+              "name": "Pilates Arm Circles",
+              "sets": 3,
+              "duration": "1 minute",
+              "rest": "30 seconds",
+              "formTip": "Extend your arms to the sides and make small circles, keeping your shoulders relaxed.",
+              "exercise_image": "/exercises/Pilates Arm Circles.webp"
+            }
+          ]
+        },
+        "Wednesday": {
+          "restDay": true
+        },
+        "Thursday": {
+          "focus": "Lower Body Strength",
+          "exercises": [
+            {
+              "name": "Pilates Leg Circles",
+              "sets": 3,
+              "reps": "15 each leg",
+              "rest": "30 seconds",
+              "formTip": "Lie on your back and make large circles with your leg, keeping your core engaged.",
+              "exercise_image": "/exercises/Pilates Leg Circles.webp"
+            },
+            {
+              "name": "Pilates Bridge",
+              "sets": 3,
+              "reps": 15,
+              "rest": "30 seconds",
+              "formTip": "Lift your hips towards the ceiling, squeezing your glutes at the top.",
+              "exercise_image": "/exercises/Pilates Bridge.webp"
+            }
+          ]
+        },
+        "Friday": {
+          "focus": "Full Body Pilates",
+          "exercises": [
+            {
+              "name": "Pilates Hundred",
+              "sets": 1,
+              "reps": 100,
+              "rest": "N/A",
+              "formTip": "Lie on your back and pump your arms up and down while keeping your legs extended and core engaged.",
+              "exercise_image": "/exercises/Pilates Hundred.webp"
+            },
+            {
+              "name": "Pilates Teaser",
+              "sets": 3,
+              "reps": 10,
+              "rest": "30 seconds",
+              "formTip": "Balance on your sit bones with your legs lifted and torso leaning back, then extend your legs and reach for your toes.",
+              "exercise_image": "/exercises/Pilates Teaser.webp"
+            }
+          ]
+        },
+        "Saturday": {
+          "focus": "Flexibility and Relaxation",
+          "exercises": [
+            {
+              "name": "Pilates Saw",
+              "sets": 3,
+              "reps": "10 each side",
+              "rest": "30 seconds",
+              "formTip": "Sit with your legs extended and reach your hand to the opposite foot, rotating your torso.",
+              "exercise_image": "/exercises/Pilates Saw.webp"
+            },
+            {
+              "name": "Pilates Spine Stretch",
+              "sets": 3,
+              "duration": "1 minute",
+              "rest": "30 seconds",
+              "formTip": "Sit with your legs extended and reach forward, stretching your spine.",
+              "exercise_image": "/exercises/Pilates Spine Stretch.webp"
+            }
+          ]
+        },
+        "Sunday": {
+          "restDay": true
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Beginner's Bodyweight Training",
+      "description": "An 8-week bodyweight training program perfect for beginners looking to build strength without the use of equipment.",
+      "duration": "8 weeks",
+      "level": "Beginner",
+      "targetAudience": "Individuals new to fitness and strength training.",
+      "type": "Strength",
+      "goal": "Muscle Gain",
+      "equipment": "No Equipment",
+      "location": "Home",
+      "caloriesBurned": "200-400",
+      "imageUrl": "/6.webp",
+      "weeklyPlan": {
+        "Monday": {
+          "focus": "Full Body Strength",
+          "exercises": [
+            {
+              "name": "Bodyweight Squats",
+              "sets": 3,
+              "reps": 15,
+              "rest": "30 seconds",
+              "formTip": "Keep your chest up and lower your hips until your thighs are parallel to the ground.",
+              "exercise_image": "/exercises/Bodyweight Squats.webp"
+            },
+            {
+              "name": "Push-Ups",
+              "sets": 3,
+              "reps": 15,
+              "rest": "30 seconds",
+              "formTip": "Keep your body in a straight line and lower your chest to the ground.",
+              "exercise_image": "/exercises/Push-Ups.webp"
+            }
+          ]
+        },
+        "Tuesday": {
+          "focus": "Core Strength",
+          "exercises": [
+            {
+              "name": "Plank",
+              "sets": 3,
+              "duration": "1 minute",
+              "rest": "30 seconds",
+              "formTip": "Keep your body in a straight line from head to heels, engaging your core.",
+              "exercise_image": "/exercises/Plank.webp"
+            },
+            {
+              "name": "Bicycle Crunches",
+              "sets": 3,
+              "reps": "20 each side",
+              "rest": "30 seconds",
+              "formTip": "Lie on your back and bring your opposite elbow to your knee, twisting your torso.",
+              "exercise_image": "/exercises/Bicycle Crunches.webp"
+            }
+          ]
+        },
+        "Wednesday": {
+          "restDay": true
+        },
+        "Thursday": {
+          "focus": "Upper Body Strength",
+          "exercises": [
+            {
+              "name": "Bodyweight Rows",
+              "sets": 3,
+              "reps": 15,
+              "rest": "30 seconds",
+              "formTip": "Find a low bar or edge and pull your chest towards it, keeping your body straight.",
+              "exercise_image": "/exercises/Bodyweight Rows.webp"
+            },
+            {
+              "name": "Tricep Dips",
+              "sets": 3,
+              "reps": 15,
+              "rest": "30 seconds",
+              "formTip": "Keep your elbows close to your body and lower until your arms are at a 90-degree angle.",
+              "exercise_image": "/exercises/Tricep Dips.webp"
+            }
+          ]
+        },
+        "Friday": {
+          "focus": "Lower Body Strength",
+          "exercises": [
+            {
+              "name": "Lunges",
+              "sets": 3,
+              "reps": "15 each leg",
+              "rest": "30 seconds",
+              "formTip": "Step forward and lower your back knee towards the ground, keeping your front knee over your ankle.",
+              "exercise_image": "/exercises/Lunges.webp"
+            },
+            {
+              "name": "Calf Raises",
+              "sets": 3,
+              "reps": 20,
+              "rest": "30 seconds",
+              "formTip": "Stand on the edge of a step and raise your heels as high as possible.",
+              "exercise_image": "/exercises/Calf Raises.webp"
+            }
+          ]
+        },
+        "Saturday": {
+          "focus": "Full Body Strength",
+          "exercises": [
+            {
+              "name": "Burpees",
+              "sets": 3,
+              "reps": 15,
+              "rest": "30 seconds",
+              "formTip": "Drop into a squat, kick your feet back into a plank, then jump up.",
+              "exercise_image": "/exercises/Burpees.webp"
+            },
+            {
+              "name": "Mountain Climbers",
+              "sets": 3,
+              "duration": "1 minute",
+              "rest": "30 seconds",
+              "formTip": "Run your knees towards your chest from a plank position, keeping your core tight.",
+              "exercise_image": "/exercises/Mountain Climbers.webp"
+            }
+          ]
+        },
+        "Sunday": {
+          "restDay": true
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Endurance Training Program",
+      "description": "A comprehensive program designed to build cardiovascular endurance through a mix of running, cycling, and swimming workouts.",
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "targetAudience": "Athletes looking to enhance their endurance and cardiovascular health.",
+      "type": "Cardio",
+      "goal": "Endurance",
+      "equipment": "Various Equipment",
+      "location": "Outdoor",
+      "caloriesBurned": "600+",
+      "imageUrl": "/7.webp",
+      "weeklyPlan": {
+        "Monday": {
+          "focus": "Cardio Endurance",
+          "exercises": [
+            {
+              "name": "Running",
+              "sets": 1,
+              "duration": "30 minutes",
+              "rest": "N/A",
+              "formTip": "Maintain a steady pace that keeps your heart rate elevated.",
+              "exercise_image": "/exercises/Running.webp"
+            },
+            {
+              "name": "Jump Rope",
+              "sets": 4,
+              "duration": "2 minutes",
+              "rest": "1 minute",
+              "formTip": "Jump with both feet together, keeping a steady rhythm.",
+              "exercise_image": "/exercises/Jump Rope.webp"
+            }
+          ]
+        },
+        "Tuesday": {
+          "focus": "Upper Body Strength",
+          "exercises": [
+            {
+              "name": "Push-Ups",
+              "sets": 4,
+              "reps": "15",
+              "rest": "45 seconds",
+              "formTip": "Keep your body in a straight line and lower your chest to the ground.",
+              "exercise_image": "/exercises/Push-Ups.webp"
+            },
+            {
+              "name": "Bodyweight Rows",
+              "sets": 3,
+              "reps": 15,
+              "rest": "45 seconds",
+              "formTip": "Find a low bar or edge and pull your chest towards it, keeping your body straight.",
+              "exercise_image": "/exercises/Bodyweight Rows.webp"
+            }
+          ]
+        },
+        "Wednesday": {
+          "restDay": true
+        },
+        "Thursday": {
+          "focus": "Cardio and Core",
+          "exercises": [
+            {
+              "name": "Bicycle Crunches",
+              "sets": 3,
+              "reps": "20 each side",
+              "rest": "30 seconds",
+              "formTip": "Lie on your back and bring your opposite elbow to your knee, twisting your torso.",
+              "exercise_image": "/exercises/Bicycle Crunches.webp"
+            },
+            {
+              "name": "Plank",
+              "sets": 3,
+              "duration": "1 minute",
+              "rest": "30 seconds",
+              "formTip": "Keep your body in a straight line from head to heels, engaging your core.",
+              "exercise_image": "/exercises/Plank.webp"
+            }
+          ]
+        },
+        "Friday": {
+          "focus": "Lower Body Strength",
+          "exercises": [
+            {
+              "name": "Lunges",
+              "sets": 3,
+              "reps": "15 each leg",
+              "rest": "30 seconds",
+              "formTip": "Step forward and lower your back knee towards the ground, keeping your front knee over your ankle.",
+              "exercise_image": "/exercises/Lunges.webp"
+            },
+            {
+              "name": "Calf Raises",
+              "sets": 3,
+              "reps": 20,
+              "rest": "30 seconds",
+              "formTip": "Stand on the edge of a step and raise your heels as high as possible.",
+              "exercise_image": "/exercises/Calf Raises.webp"
+            }
+          ]
+        },
+        "Saturday": {
+          "focus": "Full Body Conditioning",
+          "exercises": [
+            {
+              "name": "Burpees",
+              "sets": 3,
+              "reps": 15,
+              "rest": "30 seconds",
+              "formTip": "Drop into a squat, kick your feet back into a plank, then jump up.",
+              "exercise_image": "/exercises/Burpees.webp"
+            },
+            {
+              "name": "Jump Squats",
+              "sets": 3,
+              "reps": 15,
+              "rest": "30 seconds",
+              "formTip": "Lower into a squat and jump explosively, landing softly and immediately going into the next rep.",
+              "exercise_image": "/exercises/Jump Squats.webp"
+            }
+          ]
+        },
+        "Sunday": {
+          "restDay": true
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Strength and Conditioning for Athletes",
+      "description": "An intermediate program combining strength training and conditioning exercises to improve athletic performance.",
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "targetAudience": "Athletes seeking to improve their overall strength and conditioning.",
+      "type": "Strength",
+      "goal": "Athletic Performance",
+      "equipment": "Dumbbells",
+      "location": "Gym",
+      "caloriesBurned": "400-600",
+      "imageUrl": "/8.webp",
+      "weeklyPlan": {
+        "Monday": {
+          "focus": "Strength",
+          "exercises": [
+            {
+              "name": "Dumbbell Squats",
+              "sets": 4,
+              "reps": 12,
+              "rest": "45 seconds",
+              "formTip": "Hold a dumbbell in each hand and lower your hips until your thighs are parallel to the ground.",
+              "exercise_image": "/exercises/Dumbbell Squats.webp"
+            },
+            {
+              "name": "Dumbbell Rows",
+              "sets": 4,
+              "reps": 12,
+              "rest": "45 seconds",
+              "formTip": "Hinge at the hips and pull the dumbbells towards your waist, keeping your back straight.",
+              "exercise_image": "/exercises/Dumbbell Rows.webp"
+            }
+          ]
+        },
+        "Tuesday": {
+          "focus": "Conditioning",
+          "exercises": [
+            {
+              "name": "Sprints",
+              "sets": 6,
+              "duration": "30 seconds",
+              "rest": "60 seconds",
+              "formTip": "Sprint at maximum effort for 30 seconds, then walk or jog for recovery.",
+              "exercise_image": "/exercises/Sprints.webp"
+            },
+            {
+              "name": "Jump Rope",
+              "sets": 4,
+              "duration": "2 minutes",
+              "rest": "1 minute",
+              "formTip": "Jump with both feet together, keeping a steady rhythm.",
+              "exercise_image": "/exercises/Jump Rope.webp"
+            }
+          ]
+        },
+        "Wednesday": {
+          "restDay": true
+        },
+        "Thursday": {
+          "focus": "Upper Body Strength",
+          "exercises": [
+            {
+              "name": "Push-Ups",
+              "sets": 4,
+              "reps": 15,
+              "rest": "45 seconds",
+              "formTip": "Keep your body in a straight line and lower your chest to the ground.",
+              "exercise_image": "/exercises/Push-Ups.webp"
+            },
+            {
+              "name": "Tricep Dips",
+              "sets": 3,
+              "reps": 15,
+              "rest": "45 seconds",
+              "formTip": "Keep your elbows close to your body and lower until your arms are at a 90-degree angle.",
+              "exercise_image": "/exercises/Tricep Dips.webp"
+            }
+          ]
+        },
+        "Friday": {
+          "focus": "Cardio and Core",
+          "exercises": [
+            {
+              "name": "Mountain Climbers",
+              "sets": 4,
+              "duration": "1 minute",
+              "rest": "30 seconds",
+              "formTip": "Run your knees towards your chest from a plank position, keeping your core tight.",
+              "exercise_image": "/exercises/Mountain Climbers.webp"
+            },
+            {
+              "name": "Bicycle Crunches",
+              "sets": 3,
+              "reps": "20 each side",
+              "rest": "30 seconds",
+              "formTip": "Lie on your back and bring your opposite elbow to your knee, twisting your torso.",
+              "exercise_image": "/exercises/Bicycle Crunches.webp"
+            }
+          ]
+        },
+        "Saturday": {
+          "focus": "Full Body Conditioning",
+          "exercises": [
+            {
+              "name": "Burpees",
+              "sets": 4,
+              "reps": 15,
+              "rest": "45 seconds",
+              "formTip": "Drop into a squat, kick your feet back into a plank, then jump up.",
+              "exercise_image": "/exercises/Burpees.webp"
+            },
+            {
+              "name": "Jump Squats",
+              "sets": 4,
+              "reps": 15,
+              "rest": "45 seconds",
+              "formTip": "Lower into a squat and jump explosively, landing softly and immediately going into the next rep.",
+              "exercise_image": "/exercises/Jump Squats.webp"
+            }
+          ]
+        },
+        "Sunday": {
+          "restDay": true
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "Bodybuilding Hypertrophy Program",
+      "description": "A program focused on muscle hypertrophy through high-volume resistance training and proper nutrition.",
+      "duration": "8 weeks",
+      "level": "Advanced",
+      "targetAudience": "Bodybuilders looking to increase muscle size.",
+      "type": "Strength",
+      "goal": "Muscle Gain",
+      "equipment": "Dumbbells",
+      "location": "Gym",
+      "caloriesBurned": "400-600",
+      "imageUrl": "/9.webp",
+      "weeklyPlan": {
+        "Monday": {
+          "focus": "Hypertrophy",
+          "exercises": [
+            {
+              "name": "Bench Press",
+              "sets": 4,
+              "reps": 12,
+              "rest": "60 seconds",
+              "formTip": "Keep your feet flat on the ground and lower the bar to your mid-chest, pushing up explosively.",
+              "exercise_image": "/exercises/Bench Press.webp"
+            },
+            {
+              "name": "Dumbbell Flyes",
+              "sets": 4,
+              "reps": 15,
+              "rest": "60 seconds",
+              "formTip": "Keep a slight bend in your elbows and bring the weights together in a wide arc, squeezing your chest at the top.",
+              "exercise_image": "/exercises/Dumbbell Flyes.webp"
+            }
+          ]
+        },
+        "Tuesday": {
+          "focus": "Leg Hypertrophy",
+          "exercises": [
+            {
+              "name": "Squats",
+              "sets": 4,
+              "reps": 12,
+              "rest": "60 seconds",
+              "formTip": "Keep your chest up and lower your hips until your thighs are parallel to the ground.",
+              "exercise_image": "/exercises/Squats.webp"
+            },
+            {
+              "name": "Leg Press",
+              "sets": 4,
+              "reps": 15,
+              "rest": "60 seconds",
+              "formTip": "Place your feet shoulder-width apart and push the platform away, focusing on engaging your leg muscles.",
+              "exercise_image": "/exercises/Leg Press.webp"
+            }
+          ]
+        },
+        "Wednesday": {
+          "restDay": true
+        },
+        "Thursday": {
+          "focus": "Back Hypertrophy",
+          "exercises": [
+            {
+              "name": "Lat Pulldowns",
+              "sets": 4,
+              "reps": 12,
+              "rest": "60 seconds",
+              "formTip": "Pull the bar down to your chest, keeping your back straight and squeezing your shoulder blades together.",
+              "exercise_image": "/exercises/Lat Pulldowns.webp"
+            },
+            {
+              "name": "Seated Rows",
+              "sets": 4,
+              "reps": 15,
+              "rest": "60 seconds",
+              "formTip": "Pull the handle towards your torso, focusing on squeezing your shoulder blades together.",
+              "exercise_image": "/exercises/Seated Rows.webp"
+            }
+          ]
+        },
+        "Friday": {
+          "focus": "Arm Hypertrophy",
+          "exercises": [
+            {
+              "name": "Bicep Curls",
+              "sets": 4,
+              "reps": 12,
+              "rest": "60 seconds",
+              "formTip": "Keep your elbows close to your sides and avoid swinging the weights to maximize bicep engagement.",
+              "exercise_image": "/exercises/Bicep Curls.webp"
+            },
+            {
+              "name": "Tricep Extensions",
+              "sets": 4,
+              "reps": 15,
+              "rest": "60 seconds",
+              "formTip": "Extend your arms fully, feeling the stretch in your triceps at the top.",
+              "exercise_image": "/exercises/Tricep Extensions.webp"
+            }
+          ]
+        },
+        "Saturday": {
+          "focus": "Shoulder Hypertrophy",
+          "exercises": [
+            {
+              "name": "Shoulder Press",
+              "sets": 4,
+              "reps": 12,
+              "rest": "60 seconds",
+              "formTip": "Keep your core engaged and avoid arching your back to ensure proper form and prevent injury.",
+              "exercise_image": "/exercises/Shoulder Press.webp"
+            },
+            {
+              "name": "Lateral Raises",
+              "sets": 4,
+              "reps": 15,
+              "rest": "60 seconds",
+              "formTip": "Lift your arms to shoulder height with a slight bend in the elbows, focusing on the shoulder muscles.",
+              "exercise_image": "/exercises/Lateral Raises.webp"
+            }
+          ]
+        },
+        "Sunday": {
+          "restDay": true
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "Functional Fitness Routine",
+      "description": "A workout plan designed to improve functional strength and mobility, enhancing everyday activities and athletic performance.",
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "targetAudience": "Individuals looking to improve functional fitness and overall strength.",
+      "type": "Strength",
+      "goal": "Functional Fitness",
+      "equipment": "No Equipment",
+      "location": "Home",
+      "caloriesBurned": "200-400",
+      "imageUrl": "/10.webp",
+      "weeklyPlan": {
+        "Monday": {
+          "focus": "Strength",
+          "exercises": [
+            {
+              "name": "Squats",
+              "sets": 4,
+              "reps": 8,
+              "rest": "90 seconds",
+              "formTip": "Keep your chest up and lower your hips until your thighs are parallel to the ground.",
+              "exercise_image": "/exercises/Squats.webp"
+            },
+            {
+              "name": "Deadlifts",
+              "sets": 4,
+              "reps": 8,
+              "rest": "90 seconds",
+              "formTip": "Keep your back straight and hinge at the hips, lifting the barbell with a strong, controlled motion.",
+              "exercise_image": "/exercises/Deadlifts.webp"
+            }
+          ]
+        },
+        "Tuesday": {
+          "focus": "Conditioning",
+          "exercises": [
+            {
+              "name": "Sprints",
+              "sets": 6,
+              "duration": "30 seconds",
+              "rest": "60 seconds",
+              "formTip": "Sprint at maximum effort for 30 seconds, then walk or jog for recovery.",
+              "exercise_image": "/exercises/Sprints.webp"
+            },
+            {
+              "name": "Jump Rope",
+              "sets": 4,
+              "duration": "2 minutes",
+              "rest": "1 minute",
+              "formTip": "Jump with both feet together, keeping a steady rhythm.",
+              "exercise_image": "/exercises/Jump Rope.webp"
+            }
+          ]
+        },
+        "Wednesday": {
+          "restDay": true
+        },
+        "Thursday": {
+          "focus": "Upper Body Strength",
+          "exercises": [
+            {
+              "name": "Bench Press",
+              "sets": 4,
+              "reps": 8,
+              "rest": "90 seconds",
+              "formTip": "Keep your feet flat on the ground and lower the bar to your mid-chest, pushing up explosively.",
+              "exercise_image": "/exercises/Bench Press.webp"
+            },
+            {
+              "name": "Pull-Ups",
+              "sets": 3,
+              "reps": 10,
+              "rest": "60 seconds",
+              "formTip": "Grip the bar with your hands shoulder-width apart and pull your chin over the bar.",
+              "exercise_image": "/exercises/Pull-Ups.webp"
+            }
+          ]
+        },
+        "Friday": {
+          "focus": "Core and Cardio",
+          "exercises": [
+            {
+              "name": "Mountain Climbers",
+              "sets": 4,
+              "duration": "1 minute",
+              "rest": "30 seconds",
+              "formTip": "Run your knees towards your chest from a plank position, keeping your core tight.",
+              "exercise_image": "/exercises/Mountain Climbers.webp"
+            },
+            {
+              "name": "Bicycle Crunches",
+              "sets": 3,
+              "reps": "20 each side",
+              "rest": "30 seconds",
+              "formTip": "Lie on your back and bring your opposite elbow to your knee, twisting your torso.",
+              "exercise_image": "/exercises/Bicycle Crunches.webp"
+            }
+          ]
+        },
+        "Saturday": {
+          "focus": "Full Body Conditioning",
+          "exercises": [
+            {
+              "name": "Burpees",
+              "sets": 4,
+              "reps": 15,
+              "rest": "45 seconds",
+              "formTip": "Drop into a squat, kick your feet back into a plank, then jump up.",
+              "exercise_image": "/exercises/Burpees.webp"
+            },
+            {
+              "name": "Jump Squats",
+              "sets": 4,
+              "reps": 15,
+              "rest": "45 seconds",
+              "formTip": "Lower into a squat and jump explosively, landing softly and immediately going into the next rep.",
+              "exercise_image": "/exercises/Jump Squats.webp"
+            }
+          ]
+        },
+        "Sunday": {
+          "restDay": true
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "Cardio Conditioning Program",
+      "description": "An 8-week cardio conditioning program focusing on improving cardiovascular health and stamina.",
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "targetAudience": "Individuals aiming to improve their cardiovascular endurance and health.",
+      "type": "Cardio",
+      "goal": "Cardiovascular Health",
+      "equipment": "No Equipment",
+      "location": "Home",
+      "caloriesBurned": "400-600",
+      "imageUrl": "/11.webp",
+      "weeklyPlan": {
+        "Monday": {
+          "focus": "Cardio Conditioning",
+          "exercises": [
+            {
+              "name": "Running",
+              "sets": 1,
+              "duration": "30 minutes",
+              "rest": "N/A",
+              "formTip": "Maintain a steady pace that keeps your heart rate elevated.",
+              "exercise_image": "/exercises/Running.webp"
+            },
+            {
+              "name": "Jump Rope",
+              "sets": 4,
+              "duration": "2 minutes",
+              "rest": "1 minute",
+              "formTip": "Jump with both feet together, keeping a steady rhythm.",
+              "exercise_image": "/exercises/Jump Rope.webp"
+            }
+          ]
+        },
+        "Tuesday": {
+          "focus": "Upper Body Strength",
+          "exercises": [
+            {
+              "name": "Push-Ups",
+              "sets": 4,
+              "reps": 15,
+              "rest": "45 seconds",
+              "formTip": "Keep your body in a straight line and lower your chest to the ground.",
+              "exercise_image": "/exercises/Push-Ups.webp"
+            },
+            {
+              "name": "Bodyweight Rows",
+              "sets": 3,
+              "reps": 15,
+              "rest": "45 seconds",
+              "formTip": "Find a low bar or edge and pull your chest towards it, keeping your body straight.",
+              "exercise_image": "/exercises/Bodyweight Rows.webp"
+            }
+          ]
+        },
+        "Wednesday": {
+          "restDay": true
+        },
+        "Thursday": {
+          "focus": "Cardio and Core",
+          "exercises": [
+            {
+              "name": "Bicycle Crunches",
+              "sets": 3,
+              "reps": "20 each side",
+              "rest": "30 seconds",
+              "formTip": "Lie on your back and bring your opposite elbow to your knee, twisting your torso.",
+              "exercise_image": "/exercises/Bicycle Crunches.webp"
+            },
+            {
+              "name": "Plank",
+              "sets": 3,
+              "duration": "1 minute",
+              "rest": "30 seconds",
+              "formTip": "Keep your body in a straight line from head to heels, engaging your core.",
+              "exercise_image": "/exercises/Plank.webp"
+            }
+          ]
+        },
+        "Friday": {
+          "focus": "Lower Body Strength",
+          "exercises": [
+            {
+              "name": "Lunges",
+              "sets": 3,
+              "reps": "15 each leg",
+              "rest": "30 seconds",
+              "formTip": "Step forward and lower your back knee towards the ground, keeping your front knee over your ankle.",
+              "exercise_image": "/exercises/Lunges.webp"
+            },
+            {
+              "name": "Calf Raises",
+              "sets": 3,
+              "reps": 20,
+              "rest": "30 seconds",
+              "formTip": "Stand on the edge of a step and raise your heels as high as possible.",
+              "exercise_image": "/exercises/Calf Raises.webp"
+            }
+          ]
+        },
+        "Saturday": {
+          "focus": "Full Body Conditioning",
+          "exercises": [
+            {
+              "name": "Burpees",
+              "sets": 3,
+              "reps": 15,
+              "rest": "30 seconds",
+              "formTip": "Drop into a squat, kick your feet back into a plank, then jump up.",
+              "exercise_image": "/exercises/Burpees.webp"
+            },
+            {
+              "name": "Jump Squats",
+              "sets": 3,
+              "reps": 15,
+              "rest": "30 seconds",
+              "formTip": "Lower into a squat and jump explosively, landing softly and immediately going into the next rep.",
+              "exercise_image": "/exercises/Jump Squats.webp"
+            }
+          ]
+        },
+        "Sunday": {
+          "restDay": true
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "Full-Body Strength Training",
+      "description": "A balanced strength training program targeting all major muscle groups for overall strength and muscle gain.",
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "targetAudience": "Individuals looking for a comprehensive strength training regimen.",
+      "type": "Strength",
+      "goal": "Muscle Gain",
+      "equipment": "Dumbbells",
+      "location": "Gym",
+      "caloriesBurned": "400-600",
+      "imageUrl": "/12.webp",
+      "weeklyPlan": {
+        "Monday": {
+          "focus": "Full Body Strength",
+          "exercises": [
+            {
+              "name": "Squats",
+              "sets": 4,
+              "reps": 12,
+              "rest": "60 seconds",
+              "formTip": "Keep your chest up and lower your hips until your thighs are parallel to the ground.",
+              "exercise_image": "/exercises/Squats.webp"
+            },
+            {
+              "name": "Bench Press",
+              "sets": 4,
+              "reps": 12,
+              "rest": "60 seconds",
+              "formTip": "Keep your feet flat on the ground and lower the bar to your mid-chest, pushing up explosively.",
+              "exercise_image": "/exercises/Bench Press.webp"
+            }
+          ]
+        },
+        "Tuesday": {
+          "focus": "Upper Body Strength",
+          "exercises": [
+            {
+              "name": "Pull-Ups",
+              "sets": 3,
+              "reps": 10,
+              "rest": "60 seconds",
+              "formTip": "Grip the bar with your hands shoulder-width apart and pull your chin over the bar.",
+              "exercise_image": "/exercises/Pull-Ups.webp"
+            },
+            {
+              "name": "Dumbbell Rows",
+              "sets": 3,
+              "reps": 15,
+              "rest": "60 seconds",
+              "formTip": "Hinge at the hips and pull the dumbbells towards your waist, keeping your back straight.",
+              "exercise_image": "/exercises/Dumbbell Rows.webp"
+            }
+          ]
+        },
+        "Wednesday": {
+          "restDay": true
+        },
+        "Thursday": {
+          "focus": "Lower Body Strength",
+          "exercises": [
+            {
+              "name": "Deadlifts",
+              "sets": 4,
+              "reps": 12,
+              "rest": "60 seconds",
+              "formTip": "Keep your back straight and hinge at the hips, lifting the barbell with a strong, controlled motion.",
+              "exercise_image": "/exercises/Deadlifts.webp"
+            },
+            {
+              "name": "Leg Press",
+              "sets": 4,
+              "reps": 15,
+              "rest": "60 seconds",
+              "formTip": "Place your feet shoulder-width apart and push the platform away, focusing on engaging your leg muscles.",
+              "exercise_image": "/exercises/Leg Press.webp"
+            }
+          ]
+        },
+        "Friday": {
+          "focus": "Core Strength",
+          "exercises": [
+            {
+              "name": "Plank",
+              "sets": 3,
+              "duration": "1 minute",
+              "rest": "30 seconds",
+              "formTip": "Keep your body in a straight line from head to heels, engaging your core.",
+              "exercise_image": "/exercises/Plank.webp"
+            },
+            {
+              "name": "Bicycle Crunches",
+              "sets": 3,
+              "reps": "20 each side",
+              "rest": "30 seconds",
+              "formTip": "Lie on your back and bring your opposite elbow to your knee, twisting your torso.",
+              "exercise_image": "/exercises/Bicycle Crunches.webp"
+            }
+          ]
+        },
+        "Saturday": {
+          "focus": "Full Body Conditioning",
+          "exercises": [
+            {
+              "name": "Burpees",
+              "sets": 3,
+              "reps": 15,
+              "rest": "30 seconds",
+              "formTip": "Drop into a squat, kick your feet back into a plank, then jump up.",
+              "exercise_image": "/exercises/Burpees.webp"
+            },
+            {
+              "name": "Mountain Climbers",
+              "sets": 3,
+              "duration": "1 minute",
+              "rest": "30 seconds",
+              "formTip": "Run your knees towards your chest from a plank position, keeping your core tight.",
+              "exercise_image": "/exercises/Mountain Climbers.webp"
+            }
+          ]
+        },
+        "Sunday": {
+          "restDay": true
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "Athletic Performance Enhancement",
+      "description": "A program tailored to improve athletic performance through a mix of plyometrics, agility drills, and strength training.",
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "targetAudience": "Athletes aiming to enhance their performance in sports.",
+      "type": "Strength",
+      "goal": "Athletic Performance",
+      "equipment": "Various Equipment",
+      "location": "Gym",
+      "caloriesBurned": "600+",
+      "imageUrl": "/13.webp",
+      "weeklyPlan": {
+        "Monday": {
+          "focus": "Plyometrics",
+          "exercises": [
+            {
+              "name": "Box Jumps",
+              "sets": 4,
+              "reps": 10,
+              "rest": "45 seconds",
+              "formTip": "Jump explosively onto a box, landing softly and immediately going into the next rep.",
+              "exercise_image": "/exercises/Box Jumps.webp"
+            },
+            {
+              "name": "Lateral Bounds",
+              "sets": 4,
+              "reps": "15 each side",
+              "rest": "45 seconds",
+              "formTip": "Jump laterally from one foot to the other, landing softly and immediately going into the next rep.",
+              "exercise_image": "/exercises/Lateral Bounds.webp"
+            }
+          ]
+        },
+        "Tuesday": {
+          "focus": "Agility",
+          "exercises": [
+            {
+              "name": "Agility Ladder Drills",
+              "sets": 4,
+              "duration": "2 minutes",
+              "rest": "1 minute",
+              "formTip": "Run through the agility ladder, focusing on quick feet and precise movements.",
+              "exercise_image": "/exercises/Agility Ladder Drills.webp"
+            },
+            {
+              "name": "Cone Drills",
+              "sets": 4,
+              "duration": "2 minutes",
+              "rest": "1 minute",
+              "formTip": "Run around the cones in a specific pattern, focusing on quick changes of direction.",
+              "exercise_image": "/exercises/Cone Drills.webp"
+            }
+          ]
+        },
+        "Wednesday": {
+          "restDay": true
+        },
+        "Thursday": {
+          "focus": "Strength",
+          "exercises": [
+            {
+              "name": "Squats",
+              "sets": 4,
+              "reps": 8,
+              "rest": "90 seconds",
+              "formTip": "Keep your chest up and lower your hips until your thighs are parallel to the ground.",
+              "exercise_image": "/exercises/Squats.webp"
+            },
+            {
+              "name": "Deadlifts",
+              "sets": 4,
+              "reps": 8,
+              "rest": "90 seconds",
+              "formTip": "Keep your back straight and hinge at the hips, lifting the barbell with a strong, controlled motion.",
+              "exercise_image": "/exercises/Deadlifts.webp"
+            }
+          ]
+        },
+        "Friday": {
+          "focus": "Conditioning",
+          "exercises": [
+            {
+              "name": "Sprints",
+              "sets": 6,
+              "duration": "30 seconds",
+              "rest": "60 seconds",
+              "formTip": "Sprint at maximum effort for 30 seconds, then walk or jog for recovery.",
+              "exercise_image": "/exercises/Sprints.webp"
+            },
+            {
+              "name": "Jump Rope",
+              "sets": 4,
+              "duration": "2 minutes",
+              "rest": "1 minute",
+              "formTip": "Jump with both feet together, keeping a steady rhythm.",
+              "exercise_image": "/exercises/Jump Rope.webp"
+            }
+          ]
+        },
+        "Saturday": {
+          "focus": "Core Strength",
+          "exercises": [
+            {
+              "name": "Plank",
+              "sets": 3,
+              "duration": "1 minute",
+              "rest": "30 seconds",
+              "formTip": "Keep your body in a straight line from head to heels, engaging your core.",
+              "exercise_image": "/exercises/Plank.webp"
+            },
+            {
+              "name": "Bicycle Crunches",
+              "sets": 3,
+              "reps": "20 each side",
+              "rest": "30 seconds",
+              "formTip": "Lie on your back and bring your opposite elbow to your knee, twisting your torso.",
+              "exercise_image": "/exercises/Bicycle Crunches.webp"
+            }
+          ]
+        },
+        "Sunday": {
+          "restDay": true
+        }
+      }
+    },
+    {
+      "id": 14,
+      "name": "Advanced Strength and Power",
+      "description": "An advanced program focusing on building maximum strength and power through heavy lifting and explosive exercises.",
+      "duration": "8 weeks",
+      "level": "Advanced",
+      "targetAudience": "Experienced lifters seeking to maximize strength and power.",
+      "type": "Strength",
+      "goal": "Strength and Power",
+      "equipment": "Dumbbells",
+      "location": "Gym",
+      "caloriesBurned": "400-600",
+      "imageUrl": "/14.webp",
+      "weeklyPlan": {
+        "Monday": {
+          "focus": "Strength",
+          "exercises": [
+            {
+              "name": "Squats",
+              "sets": 4,
+              "reps": 8,
+              "rest": "90 seconds",
+              "formTip": "Keep your chest up and lower your hips until your thighs are parallel to the ground.",
+              "exercise_image": "/exercises/Squats.webp"
+            },
+            {
+              "name": "Deadlifts",
+              "sets": 4,
+              "reps": 8,
+              "rest": "90 seconds",
+              "formTip": "Keep your back straight and hinge at the hips, lifting the barbell with a strong, controlled motion.",
+              "exercise_image": "/exercises/Deadlifts.webp"
+            }
+          ]
+        },
+        "Tuesday": {
+          "focus": "Power",
+          "exercises": [
+            {
+              "name": "Power Cleans",
+              "sets": 4,
+              "reps": 6,
+              "rest": "90 seconds",
+              "formTip": "Explosively lift the barbell from the ground to your shoulders, using your hips and legs.",
+              "exercise_image": "/exercises/Power Cleans.webp"
+            },
+            {
+              "name": "Push Press",
+              "sets": 4,
+              "reps": 6,
+              "rest": "90 seconds",
+              "formTip": "Dip your knees and use your legs to press the barbell overhead.",
+              "exercise_image": "/exercises/Push Press.webp"
+            }
+          ]
+        },
+        "Wednesday": {
+          "restDay": true
+        },
+        "Thursday": {
+          "focus": "Strength",
+          "exercises": [
+            {
+              "name": "Bench Press",
+              "sets": 4,
+              "reps": 8,
+              "rest": "90 seconds",
+              "formTip": "Keep your feet flat on the ground and lower the bar to your mid-chest, pushing up explosively.",
+              "exercise_image": "/exercises/Bench Press.webp"
+            },
+            {
+              "name": "Pull-Ups",
+              "sets": 3,
+              "reps": 10,
+              "rest": "60 seconds",
+              "formTip": "Grip the bar with your hands shoulder-width apart and pull your chin over the bar.",
+              "exercise_image": "/exercises/Pull-Ups.webp"
+            }
+          ]
+        },
+        "Friday": {
+          "focus": "Core and Cardio",
+          "exercises": [
+            {
+              "name": "Mountain Climbers",
+              "sets": 4,
+              "duration": "1 minute",
+              "rest": "30 seconds",
+              "formTip": "Run your knees towards your chest from a plank position, keeping your core tight.",
+              "exercise_image": "/exercises/Mountain Climbers.webp"
+            },
+            {
+              "name": "Bicycle Crunches",
+              "sets": 3,
+              "reps": "20 each side",
+              "rest": "30 seconds",
+              "formTip": "Lie on your back and bring your opposite elbow to your knee, twisting your torso.",
+              "exercise_image": "/exercises/Bicycle Crunches.webp"
+            }
+          ]
+        },
+        "Saturday": {
+          "focus": "Power",
+          "exercises": [
+            {
+              "name": "Power Snatch",
+              "sets": 4,
+              "reps": 6,
+              "rest": "90 seconds",
+              "formTip": "Explosively lift the barbell from the ground to overhead in one motion.",
+              "exercise_image": "/exercises/Power Snatch.webp"
+            },
+            {
+              "name": "Medicine Ball Slams",
+              "sets": 4,
+              "reps": 15,
+              "rest": "60 seconds",
+              "formTip": "Lift a medicine ball overhead and slam it down to the ground with force.",
+              "exercise_image": "/exercises/Medicine Ball Slams.webp"
+            }
+          ]
+        },
+        "Sunday": {
+          "restDay": true
+        }
+      }
+    },
+    {
+      "id": 15,
+      "name": "Mobility and Recovery Program",
+      "description": "A program designed to enhance mobility and facilitate recovery through a mix of stretching, foam rolling, and low-intensity exercises.",
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "targetAudience": "Individuals looking to improve recovery and prevent injuries.",
+      "type": "Recovery",
+      "goal": "Recovery",
+      "equipment": "Foam Roller",
+      "location": "Home",
+      "caloriesBurned": "200-400",
+      "imageUrl": "/15.webp",
+      "weeklyPlan": {
+        "Monday": {
+          "focus": "Flexibility",
+          "exercises": [
+            {
+              "name": "Hamstring Stretch",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Keep your back straight and reach towards your toes, feeling the stretch in your hamstrings.",
+              "exercise_image": "/exercises/Hamstring Stretch.webp"
+            },
+            {
+              "name": "Quad Stretch",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Pull your heel towards your glutes, keeping your knees together.",
+              "exercise_image": "/exercises/Quad Stretch.webp"
+            }
+          ]
+        },
+        "Tuesday": {
+          "focus": "Upper Body Flexibility",
+          "exercises": [
+            {
+              "name": "Shoulder Stretch",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Pull your arm across your chest, feeling the stretch in your shoulder.",
+              "exercise_image": "/exercises/Shoulder Stretch.webp"
+            },
+            {
+              "name": "Tricep Stretch",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Reach your hand down your back and gently pull your elbow.",
+              "exercise_image": "/exercises/Tricep Stretch.webp"
+            }
+          ]
+        },
+        "Wednesday": {
+          "restDay": true
+        },
+        "Thursday": {
+          "focus": "Full Body Flexibility",
+          "exercises": [
+            {
+              "name": "Cat-Cow Stretch",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Alternate between arching and rounding your back, moving smoothly between the two positions.",
+              "exercise_image": "/exercises/Cat-Cow Stretch.webp"
+            },
+            {
+              "name": "Child's Pose",
+              "sets": 3,
+              "duration": "60 seconds",
+              "rest": "30 seconds",
+              "formTip": "Sit back on your heels and stretch your arms forward, relaxing your body.",
+              "exercise_image": "/exercises/Child's Pose.webp"
+            }
+          ]
+        },
+        "Friday": {
+          "focus": "Hip Flexibility",
+          "exercises": [
+            {
+              "name": "Hip Flexor Stretch",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Lunge forward and push your hips down, feeling the stretch in your hip flexors.",
+              "exercise_image": "/exercises/Hip Flexor Stretch.webp"
+            },
+            {
+              "name": "Butterfly Stretch",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Sit with your feet together and gently press your knees towards the ground.",
+              "exercise_image": "/exercises/Butterfly Stretch.webp"
+            }
+          ]
+        },
+        "Saturday": {
+          "focus": "Spinal Flexibility",
+          "exercises": [
+            {
+              "name": "Seated Twist",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Sit with your legs extended and twist your torso to one side, using your arm for leverage.",
+              "exercise_image": "/exercises/Seated Twist.webp"
+            },
+            {
+              "name": "Bridge Pose",
+              "sets": 3,
+              "duration": "30 seconds",
+              "rest": "30 seconds",
+              "formTip": "Lift your hips towards the ceiling, pressing your feet into the ground.",
+              "exercise_image": "/exercises/Bridge Pose.webp"
+            }
+          ]
+        },
+        "Sunday": {
+          "restDay": true
+        }
+      }
+    }
+  ]
